@@ -1,1 +1,1 @@
-# conflict_sample
+Git Hubで編集しました
